@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Hi+👋+I'm+Hari+Gowtham+Areti;Recent+CSE+Graduate;Aspiring+Data+Analyst+📊;Machine+Learning+Enthusiast+🤖;Turning+Data+into+Insights+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=130&lines=Hi+👋+I'm+Hari+Gowtham+Areti;Recent+CSE+Graduate;Aspiring+Data+Analyst+📊;Machine+Learning+Enthusiast+🤖;Turning+Data+into+Insights+✨" />
 
 </div>
 
